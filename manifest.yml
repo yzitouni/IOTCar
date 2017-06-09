@@ -3,6 +3,7 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: DriveCar
-  host: drivecar
+  name: Catbot
+  host: Catbot
   disk_quota: 1024M
+  
